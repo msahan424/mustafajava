@@ -1,4 +1,4 @@
-package Day20_Arrays;
+package day20_Arrays;
 
 public class MaxNumberOfArray {
     public static void main(String[] args) {
